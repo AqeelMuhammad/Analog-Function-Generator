@@ -1,0 +1,23 @@
+Change Component Footprint: Designator=D1 Old Footprint=SMC New Footprint=DO-41
+Change Component Footprint: Designator=D2 Old Footprint=SMC New Footprint=DO-41
+Change Component Comment : Designator=D1 Old Comment=Diode New Comment=DIP-DIODE-50V-1A(DO-41)
+Change Component Comment : Designator=D2 Old Comment=Diode New Comment=DIP-DIODE-50V-1A(DO-41)
+Change component parameters: Designator = "D1"; Footprint = "DO-41"; UniqueID = "\AGSLTYUL"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Comchip Technology"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "1N4001-G"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "DO-41 Comchip"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/1N4001-G/Comchip%20Technology/view-part/106354/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "D2"; Footprint = "DO-41"; UniqueID = "\VXMYVYBJ"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Comchip Technology"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "1N4001-G"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "DO-41 Comchip"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/1N4001-G/Comchip%20Technology/view-part/106354/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Room: Name=Sine
